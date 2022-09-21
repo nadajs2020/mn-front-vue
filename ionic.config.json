@@ -1,0 +1,7 @@
+{
+  "name": "InncesERP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

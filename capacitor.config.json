@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "InncesERP",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
